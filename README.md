@@ -1,7 +1,7 @@
 ## About me
 
 - I studied Computer Engineering at `ISPTEC`.
-- I'm currently studying at `42 Luanda`, doing the `Common Core (42 Cursus)` after completing the `C Piscine` (mainly in `C Language` and `Shell Script`).
+- I'm currently studying at `42 Luanda`, doing the `Common Core (42 Cursus)` after completing the `C Piscine` (mainly in `C` and `Shell Script`).
 - My other areas of focus are `Cybersecurity` and `Web & Mobile Development`.
 - Beside programming, my other interests are `Sports(Football, Basketball & F1)`, `Games` & `Movies/Series`.
 
