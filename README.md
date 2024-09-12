@@ -1,6 +1,6 @@
 ## About me
 
-- I studying Computer Science at `ISPTEC`.
+- I studying Computer Engineering at `ISPTEC`.
 - I'm currently studying at `42 Luanda` after completing the `C Piscine`, mainly in `C`.
 - My other areas of focus are `Cybersecurity` and `Web & Mobile Development`.
 - Beside programming, my other interests are `Sports(Football, Basketball & F1)`, `Games` & `Movies/Series`.
