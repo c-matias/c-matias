@@ -14,7 +14,7 @@
 
 - 💡 I enjoy solving complex problems and learning new technologies.  
 - 🔍 Currently focused on building efficient, scalable systems and exploring low-level programming.  
-- ⚽ Outside of coding, I love **Sports (Football, Basketball, Tennis, F1)**, **Gaming**, and **Movies/Series**.  
+- ⚽ Outside of coding, I appreciate **Sports (Football, Basketball, Tennis, F1)**, **Gaming**, and **Movies/Series**.  
 
 ---
 
@@ -28,7 +28,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Network with Me
 
 <p align="center" style="margin-top: 20px;">
   <a href="https://www.linkedin.com/in/cl%C3%A1uder-matias-4516062bb" target="_blank">
@@ -42,6 +42,6 @@
 
 ---
 
-<p align="center" style="font-style: italic; color: #AAAAAA; font-size: 1.05em;">
-  “Code is like humor. When you have to explain it, it’s bad.”
+<p align="center" style="font-style: italic; color: #AAAAAA;">
+  “The best way to predict the future is to invent it.” — Alan Kay
 </p>
