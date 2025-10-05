@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hi, I'm Cláuder Matias</h1>
+<h1 align="center">👋🏾 Hi, I'm Cláuder Matias</h1>
 
 <p align="center">
-  💻 I studied Computer Engineering at <b>ISPTEC</b><br>.
+  💻 I studied Computer Engineering at <b>ISPTEC</b>.<br>
   🎓 Currently studying at <b>42 Luanda</b> – pursuing the <b>Common Core (42 Cursus)</b> in <code>C</code> & <code>C++</code><br>
-  🧠 Passionate about <b>Web & Mobile Development</b>, <b>Data Science/Machine Learning</b>, and <b>Cybersecurity</b>
+  🧠 Passionate about <b>Web & Mobile Development</b>, <b>Data Science/Machine Learning</b>, and <b>Cybersecurity.</b>
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,git,github,docker,bash,linux,vscode,vim,sublime,ps,wordpress&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,docker,git,github,bash,linux,vscode,vim,sublime,wordpress&perline=8" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
   </a>
   &nbsp;
   <a href="https://profile.intra.42.fr/users/cmatias" target="_blank">
-    <img alt="42 Profile" src="https://img.shields.io/badge/-42%20Luanda-000000?style=for-the-badge&logo=42&logoColor=white">
+    <img alt="42 Profile" src="https://img.shields.io/badge/Luanda-000000?style=for-the-badge&logo=42&logoColor=white">
   </a>
 </p>
 
