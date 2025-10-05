@@ -2,8 +2,8 @@
 
 <p align="center">
   💻 I studied Computer Engineering at <b>ISPTEC</b>.<br>
-  🎓 Currently studying at <b>42 Luanda</b> – pursuing the <b>Common Core (42 Cursus)</b> in <code>C</code> & <code>C++</code><br>
-  🧠 Passionate about <b>Web & Mobile Development</b>, <b>Data Science/Machine Learning</b>, and <b>Cybersecurity.</b>
+  🎓 Currently studying at <b>42 Luanda</b> – pursuing the <b>Common Core (42 Cursus)</b> in <code>C</code> & <code>C++</code>.<br>
+  🧠 Passionate about <b>Web & Mobile Development</b>, <b>Data Science/Machine Learning</b>, and <b>Cybersecurity</b>.
 </p>
 
 ---
