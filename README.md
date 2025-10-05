@@ -1,6 +1,8 @@
-<h1 align="center">👋🏾 Hi, I'm Cláuder Matias</h1>
+<h1 align="center" style="font-size: 3em; background: linear-gradient(90deg, #00F5A0, #00D9F5); -webkit-background-clip: text; color: transparent;">
+  👋🏾 Hi, I'm Cláuder Matias
+</h1>
 
-<p align="center">
+<p align="center" style="font-size: 1.1em; color: #CCCCCC;">
   💻 I studied Computer Engineering at <b>ISPTEC</b>.<br>
   🎓 Currently studying at <b>42 Luanda</b> – pursuing the <b>Common Core (42 Cursus)</b> in <code>C</code> & <code>C++</code>.<br>
   🧠 Passionate about <b>Web & Mobile Development</b>, <b>Data Science/Machine Learning</b>, and <b>Cybersecurity</b>.
@@ -28,23 +30,18 @@
 
 ### 🌐 Connect with Me
 
-<p align="center">
+<p align="center" style="margin-top: 20px;">
   <a href="https://www.linkedin.com/in/cl%C3%A1uder-matias-4516062bb" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-00A0DC?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
   &nbsp;
   <a href="https://profile.intra.42.fr/users/cmatias" target="_blank">
-    <img alt="42 Profile" src="https://img.shields.io/badge/Luanda-000000?style=for-the-badge&logo=42&logoColor=white">
+    <img alt="42 Profile" src="https://img.shields.io/badge/Luanda-111111?style=for-the-badge&logo=42&logoColor=white">
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i>  
+<p align="center" style="font-style: italic; color: #AAAAAA; font-size: 1.05em;">
+  “Code is like humor. When you have to explain it, it’s bad.”
 </p>
-
-<!---
-c-matias/c-matias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
