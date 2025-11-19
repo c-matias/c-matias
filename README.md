@@ -14,7 +14,7 @@
 
 - 💡 I enjoy solving complex problems and learning new technologies.  
 - 🔍 Currently focused on building efficient, scalable systems and exploring low-level programming.  
-- ⚽ Outside of coding, I appreciate **Sports (Football, Basketball, Tennis, F1)**, **Gaming**, and **Movies/Series**.  
+- ⚽ Outside of coding, I appreciate **Sports (Football, Basketball, Tennis, F1)**, **Gaming** and **Movies/Series**.  
 
 ---
 
