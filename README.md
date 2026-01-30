@@ -31,7 +31,7 @@
 ### 🌐 Network with Me
 
 <p align="center" style="margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/cl%C3%A1uder-matias-4516062bb" target="_blank">
+  <a href="www.linkedin.com/in/cláuder-matias-4516062bb" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-00A0DC?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
   &nbsp;
