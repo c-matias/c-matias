@@ -5,7 +5,7 @@
 <p align="center" style="font-size: 1.1em; color: #CCCCCC;">
   💻 I studied Computer Engineering at <b>ISPTEC</b>.<br>
   🎓 Currently studying at <b>42 Luanda</b> – pursuing the <b>Common Core (42 Cursus)</b> in <code>C</code> & <code>C++</code>.<br>
-  🧠 Passionate about <b>Data Science/Machine Learning</b>, <b>Web & Mobile Development</b>, and <b>Cybersecurity</b>.
+  🧠 Passionate about <b>Data Science/Machine Learning</b>.
 </p>
 
 ---
