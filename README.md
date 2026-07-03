@@ -1,7 +1,7 @@
 <h1 align="center" style="font-size: 3em; background: linear-gradient(90deg, #00F5A0, #00D9F5); -webkit-background-clip: text; color: transparent;">
   👋🏾 Hi, I'm Cláuder Matias
 </h1>
-
+<p align="center">
   📊 <b>Data & Software Engineer</b> based in Luanda, Angola<br>
   💻 <b>Software Engineering</b> at <b>42 Luanda</b> — <b>Common Core</b><br>
   🎓 <b>Computer Engineering</b> at <b>ISPTEC</b><br>
