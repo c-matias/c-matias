@@ -19,7 +19,7 @@
 
 - 💡 I work with data pipelines end-to-end — from ingestion and cleaning to modelling and visualisation that supports real decisions.
 - 🔧 I build ETL pipelines, analytics dashboards, and open-source tools with **Python, SQL, Docker** and a Microsoft-centric BI stack.
-- 🌍 Interested in **applied machine learning**, data quality, and how well-managed data can transform organisations across Angola and the African continent.
+- 🌍 Interested in **applied machine learning**, data quality, and how well-managed data can transform organisations.
 - ⚽ Outside of code: **Football, Basketball, Tennis, F1**, gaming and movies/series.
 
 ---
